@@ -2,7 +2,8 @@
 
 ![Paradigm](https://img.shields.io/badge/Paradigm-Harness_Engineering-blue) ![Methodology](https://img.shields.io/badge/Methodology-Maoism-red) ![Vibe](https://img.shields.io/badge/Status-Vibe_Coding-orange) ![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)
 
-> *"你要有知识，你就得参加变革现实的实践。你要知道梨子的滋味，你就得变革梨子，亲口吃一吃。"* > —— 《实践论》
+> *"你要有知识，你就得参加变革现实的实践。你要知道梨子的滋味，你就得变革梨子，亲口吃一吃。"*
+>  —— 《实践论》
 
 ## 💡 这是什么？
 
